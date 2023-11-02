@@ -80,6 +80,10 @@ public partial class MainForm : Form
 
     private void RenderControls()
     {
+        // ENHANCEMENT: did not focus on making a well formatted or pretty UI.
+        //              Would design better in a real app, including how sizes /
+        //              locations / scale of each control would be specified.
+
         // Debug console
         consoleTextBox = new RichTextBox
         {

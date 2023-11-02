@@ -1,3 +1,6 @@
+-- Creating the minimum tables/fields required here to get the app running
+-- See the assignment document for a full schema description
+
 USE DCMMeasure;
 
 DROP TABLE Measurement;
